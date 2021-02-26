@@ -163,7 +163,7 @@ img{
 
 .banner{
  color: white;
- background-image: url('./construction.jpg');
+ background-image: url('./slider-1.jpg');
  background-position: center;
  background-size: cover;
  width: 100%;
@@ -528,6 +528,12 @@ a{
   }
   .main_title_wrapper{
     text-align: center;
+  }
+  .link-img{
+    width: 430px;
+  }
+  .img-wrapper{
+    padding-top: 250px;
   }
   
 }
